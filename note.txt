@@ -8,4 +8,16 @@ Git Commands
 
 
 
+-git remote add origin url
+-git remote rm origin  ----delete
+
+-git remote show origin
+
+-Route
+-Views
+-Controller
+-Using template
+
+
+
 
